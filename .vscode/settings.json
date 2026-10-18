@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "esp8266_driver.h": "c"
+    },
+    "cmake.sourceDirectory": "G:/BJTU/Graduate_project/Mec_Car/Own_code/Lower_Controrller_p_in_net_10_29/Drivers/CMSIS/DSP/Source/InterpolationFunctions"
+}

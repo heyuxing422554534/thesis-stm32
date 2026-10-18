@@ -1,0 +1,17 @@
+
+# Keil generated output and per-user IDE state
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.map
+*.lst
+*.dep
+*.lnp
+*.iex
+*.build_log.htm
+*.log
+*.uvguix.*
