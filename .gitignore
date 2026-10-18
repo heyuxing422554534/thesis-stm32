@@ -15,3 +15,5 @@
 *.build_log.htm
 *.log
 *.uvguix.*
+# Keil output directory (static call-graph report *.htm and other build artifacts)
+MDK-ARM/Lower_Controrller_Time_config/
